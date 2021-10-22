@@ -1,0 +1,13 @@
+Bem vindo ao curso de C#(Sharp)
+18/10/2021
+
+public void inserirCliente(){
+
+   select * from cliente;
+
+}
+
+id nome    sexo cpf
+1  Macedo  M    999.999.999.99
+2  Willian M    123.123.123.12
+3  Matheus M    333.333.333.33
