@@ -12,3 +12,4 @@ id nome    sexo cpf
 2  Willian M    123.123.123.12
 3  Matheus M    333.333.333.33
 3  Matheus M    333.333.333.33
+4  Pedro   M    444.444.444.44
